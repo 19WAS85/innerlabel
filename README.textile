@@ -1,0 +1,8 @@
+h1. Inner Label
+
+<pre>
+Copyright (c) 2009 Wagner Andrade (http://wagnerandrade.com).
+Licensed under the Creative Commons Attribution-Noncommercial 3.0 (http://creativecommons.org/licenses/by-nc/3.0/).
+</pre>
+
+A jQuery plugin that make inner labels in inputs.
